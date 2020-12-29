@@ -1,0 +1,15 @@
+#iframe-report {
+    min-height: calc(250vh) !important;
+}
+
+#iframe-report.horizontalItemsContainer {
+    top: 40px !important;
+}
+
+#iframe-report .sections {
+    opacity: 0.2 !important;
+}
+
+body {
+    background-color: cyan !important;
+}
